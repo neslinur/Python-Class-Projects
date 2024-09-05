@@ -1,0 +1,6 @@
+Name	Score
+Amari	85.0
+Blake	76.5
+Cameron	89.0
+Dylan	59.5
+Emerson	97.0
